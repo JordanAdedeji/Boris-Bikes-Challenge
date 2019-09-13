@@ -1,7 +1,13 @@
+
+
 class DockingStation
 
 def initialilze
-  puts "I work"
+ puts "Docking station created"
+end
+
+def release_bike
+  true
 end
 
 end
